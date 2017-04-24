@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.categoryUL{
+  list-style-type: none;
+}
+
+.movieUL{
+  list-style-type: none;
+}
+
+.categoryLI{
+  margin: 0 0 30px 0;
+}
+
+.movieLI{
+  margin: 0 0 5px 0;
+}
+
+.categoryName{
+  font-weight: bold;
+}

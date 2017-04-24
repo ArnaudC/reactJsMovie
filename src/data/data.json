@@ -1,0 +1,17 @@
+[
+    {
+        "categoryName": "Action",
+        "movies": [
+            {"name": "The Godfather", "picture": "https://images-na.ssl-images-amazon.com/images/I/41%2BHJCUl3EL._SL160_.jpg", "id": 1},
+            {"name": "The Dark Knight", "picture": "https://images-na.ssl-images-amazon.com/images/I/51xXNcbSAlL._SL160_.jpg", "id": 3}
+        ],
+        "id": 1
+    },
+    {
+        "categoryName": "Comedy-drama",
+        "movies": [
+            {"name": "Forrest Gump", "picture": "https://images-na.ssl-images-amazon.com/images/I/41sc8hx7VaL._SL160_.jpg", "id": 2}
+        ],
+        "id": 2
+    }
+]
